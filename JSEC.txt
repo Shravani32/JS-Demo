@@ -1,0 +1,9 @@
+JSEC:Javascript Execution Context
+
+1.Global Execution Context
+2.Functional Execution Context
+3.Eval Execution context
+
+Execution has two phases:
+1.memeory creation phase(creation phase) : memory space is allocated 
+2.execution phase : execution is done
