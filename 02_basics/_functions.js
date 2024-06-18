@@ -44,4 +44,5 @@ function handleArray(getArray){
     return getArray[2];
 }
 
-console.log(handleArray(myNewArray))
+// console.log(handleArray(myNewArray))
+
